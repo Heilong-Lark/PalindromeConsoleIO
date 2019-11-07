@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ConsoleIO
+comment1.params=txt
+comment1.target=java.lang.String\ input(java.lang.String)
+comment2.params=txt
+comment2.target=void\ outputChar(char)
+comment3.params=txt
+comment3.target=void\ output(java.lang.String)
+comment4.params=txt
+comment4.target=int\ inputInt(java.lang.String)
+numComments=5
